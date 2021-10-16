@@ -13,8 +13,8 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.StrokeLineCap;
 
 /**
- * Extends the canvas and makes it easier for me to draw shit
- * @author Spencer Gannon
+ * Extending canvas to implement different drawing tools
+ * @
  */
 public class Acrylic extends Canvas{
     private boolean fillShape;
