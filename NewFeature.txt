@@ -1,0 +1,3 @@
+New Feature Implemented:
+			Gaussian Blur: The tool applies a gaussian blur to the whole image present in the canvas.
+				
