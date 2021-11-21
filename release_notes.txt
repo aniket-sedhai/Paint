@@ -55,3 +55,6 @@ Version #1.0.6
 							-Menubar
 							-Exit of the program
 ########################################################################################################################
+
+GITHUB LINK TO THE REPOSITORY OF THIS APPLICATION: https://github.com/aniket-sedhai/Paint
+Link to the youtube video demonstrating the working features: https://youtu.be/Pq4UjSThsI4
