@@ -61,6 +61,9 @@ Version #1.0.6
 							-Exit of the program
 ########################################################################################################################
 
+GITHUB LINK TO THE REPOSITORY OF THIS APPLICATION: https://github.com/aniket-sedhai/Paint
+Link to the youtube video demonstrating the working features: https://youtu.be/Pq4UjSThsI4
+
 # Some UML Diagrams for the software development cycle:
 [Paint Class diagram.pdf](https://github.com/aniket-sedhai/Paint/files/7576341/Paint.Class.diagram.pdf)
 [Unsaved changes uml.pdf](https://github.com/aniket-sedhai/Paint/files/7576342/Unsaved.changes.uml.pdf)
