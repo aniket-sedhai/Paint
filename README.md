@@ -69,7 +69,4 @@ GITHUB LINK TO THE REPOSITORY OF THIS APPLICATION: https://github.com/aniket-sed
 Link to the youtube video demonstrating the working features: https://youtu.be/Pq4UjSThsI4
 
 # Some UML Diagrams for the software development cycle:
-[Paint Class diagram.pdf](https://github.com/aniket-sedhai/Paint/files/7576341/Paint.Class.diagram.pdf)
-[Unsaved changes uml.pdf](https://github.com/aniket-sedhai/Paint/files/7576342/Unsaved.changes.uml.pdf)
-[Usecase Paint.pdf](https://github.com/aniket-sedhai/Paint/files/7576343/Usecase.Paint.pdf)
-[Paint Activity Diagram.pdf](https://github.com/aniket-sedhai/Paint/files/7576344/Paint.Activity.Diagram.pdf)
+[UML.pdf](https://github.com/aniket-sedhai/Paint/files/7577482/UML.pdf)
